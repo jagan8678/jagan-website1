@@ -1,0 +1,18 @@
+h1{
+    background-color: beige;
+    width:50%;
+}
+h4{
+    color:chartreuse;
+    background-color:brown;
+    width: 10%;
+}
+footer{
+    color:chocolate 
+}
+h2{
+    color: aqua;
+}
+table, th, td {
+    border: 1px solid black;
+  }
